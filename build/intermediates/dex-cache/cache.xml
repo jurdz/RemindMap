@@ -2,480 +2,249 @@
 <items version="2" >
 
     <item
-        jar="/Users/judyl/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.8/af3be3f74d25fc5163b54f56a0d394b462dafafd/commons-codec-1.8.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="af3be3f74d25fc5163b54f56a0d394b462dafafd">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/commons-codec-1.8-8b8cbd52e18cf6efab38d0a897554ecab7b18aa5.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-7b897c33da94879b45242a05bfdebd751790c653.jar" />
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-9f460e2aae7657dc38bc9f0980bde64951ec73c6.jar" />
     </item>
     <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-dc34bf8e6215b1a29b4ca53718eb14c330c5ca17.jar" />
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-8025d39007196a312d973c497f38362f5dbd2cbd.jar" />
     </item>
     <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-601fabe354e09fa86bd351fac80fab0139d6c9f0.jar" />
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-ab69909a68a9f8432b57993b175b3ae1ea2ea5f1.jar" />
     </item>
     <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/libs/Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/Parse-1.9.2-efa0da6e77c21d30e77d923fe3c10132a01dec9a.jar" />
+    </item>
+    <item
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-d24415bf1327efd1dae6076dda3ed8391c9f7883.jar" />
+    </item>
+    <item
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-99a4290d0d3cdd4b2bbbc9fe275815b3348cb502.jar" />
+    </item>
+    <item
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-41e4fe1f2f39ad091a30523d92df549aff5c1811.jar" />
+    </item>
+    <item
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-7c4e2e6f3f0c443a0982cf0bbff4cfa3d90da415.jar" />
+    </item>
+    <item
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-df3ed64748fe184bff0e59cc6a78cd433ec1f4b4.jar" />
+    </item>
+    <item
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-87bea734312de4299e0207737e54657211078e35.jar" />
+    </item>
+    <item
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-eecc0b449f86493772a2c3f68f59819345be9a48.jar" />
+    </item>
+    <item
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-a6ccab29a0b2eced1c27e953d950c564e4013fd5.jar" />
+    </item>
+    <item
+        jar="/Users/EdwardTorgas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-1ee0dc0105279a693c074597f7b4e2749ad32fb2.jar" />
+    </item>
+    <item
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-190aac7fb736cf3181209ebc96404ad7f76cb3f1.jar" />
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-87e0546dfd2ed2ce8cd4816d914bca366cd76c72.jar" />
     </item>
     <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-de6975299a5018e367e622de01cc707bba832a5b.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-7a39ef8bd4677cff0bf5a0fe5d59427be9c79ce9.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.16/7999a63bfccbc7c247a9aea10d83d4272bd492c6/log4j-1.2.16.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="7999a63bfccbc7c247a9aea10d83d4272bd492c6">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/log4j-1.2.16-43a2d04fcd87d80d11ff76ca871dc3c0ad5a9198.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="d405025c600055237c171a0bbabaa49d69696573">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-66a0f574e972d6320a2f2009d35658ba452bb653.jar" />
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-f97a99021f1724d95a9d6b71cb9dc819c08770a5.jar" />
     </item>
     <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d405025c600055237c171a0bbabaa49d69696573">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-66a0f574e972d6320a2f2009d35658ba452bb653.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-bf2ee82cc1fa651c2cc3ec9292b1f5ca825ae0a7.jar" />
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-73a2f0c07c4a75c56e4abfcff73600acc571faa3.jar" />
     </item>
     <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/libs/ParseCrashReporting-1.9.2.jar"
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/libs/ParseFacebookUtilsV4-1.9.2.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="83f3b1e397f1cc3f05cb9db078d9e364b5f5e218">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.2-e353b12e78c6149628c683ef216d2e2c26fef7a1.jar" />
+        revision="22.0.1"
+        sha1="bab281cc21f6a68152e11ab53b053790ccfd6764">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.2-ea11b16a7b3bd00d3b6f598eed2ab2877573e23d.jar" />
     </item>
     <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-fa98de4f1305f5250947d7d45a2d26dbb202b026.jar" />
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-2422fa081627f46af73393ae1606668ceb408e2a.jar" />
     </item>
     <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.1.0/jars/classes.jar"
         jumboMode="false"
-        revision="21.1.2"
+        revision="22.0.1"
+        sha1="a78bfd2ec508b123ee7c03f4006ba7996ef9a8dc">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-a06718d75256fb2da24d2e7bd2a8675ba2ae5b86.jar" />
+    </item>
+    <item
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
         sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-ff83b5009c07e96e8db40d427ecfbee9e1d312c6.jar" />
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-7e44179fbd39d199b98b8e716ec68016def6039d.jar" />
     </item>
     <item
-        jar="/Users/judyl/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.1/44780c2cf98f6a3cf4e77f1234d644758b329201/bolts-android-1.2.1.jar"
+        jar="/Users/EdwardTorgas/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.8/af3be3f74d25fc5163b54f56a0d394b462dafafd/commons-codec-1.8.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="af3be3f74d25fc5163b54f56a0d394b462dafafd">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/commons-codec-1.8-15dd54f7a6b677ca528ee5a2ed236c3c1674c973.jar" />
+    </item>
+    <item
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-a15a3c20db33a69af6ebe309a810f94c6be21e0e.jar" />
+    </item>
+    <item
+        jar="/Users/EdwardTorgas/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.1/44780c2cf98f6a3cf4e77f1234d644758b329201/bolts-android-1.2.1.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.1-a6b18b7168fb4bfcef850345659a7f3d401e78f6.jar" />
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.1-22b2985b8519a07172f632973035ef03f015ec15.jar" />
     </item>
     <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-de6975299a5018e367e622de01cc707bba832a5b.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-f092a09f478ff83fef5bdbfe1440f1856d4ab149.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-f206c38c5cc121456ab45c490aabcb66df947155.jar" />
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-4ad1faa1d92b5a87a238360bbe759c89f24c2a44.jar" />
     </item>
     <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/libs/Parse-1.9.2.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="fe739334780fe321141e62720822c2d456061899">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/Parse-1.9.2-ad045fef7ebde14dcd995a0699b4ac06720b134d.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-06088336816626c52063d8eba7612008bcbb2415.jar" />
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-8ed8788f63da885087ed74af57cec62d7bcd1153.jar" />
     </item>
     <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a78bfd2ec508b123ee7c03f4006ba7996ef9a8dc">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-dc176bb33c6bf2e3ca06f93b2ec1fd47badea6c9.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-62a65fc6c144fdb0234d6a5ddf25cf248f011565.jar" />
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-34ac749cde880f23c867b2a2d9537f7b37a29cfb.jar" />
     </item>
     <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-2ef1f8397114a8a04e720f45b0bd3bc23da3750b.jar" />
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-735dadbcd2b3edad9531591c4c8cb27830d4dd5b.jar" />
     </item>
     <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/libs/ParseFacebookUtilsV4-1.9.2.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="bab281cc21f6a68152e11ab53b053790ccfd6764">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.2-1465934169a438c288bd243978941976813b94b5.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="a78183f30e769a98ab4820794f597763088d3065">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-9dd751ee1508e0f672af7e09bcb883db359ff60a.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/.gradle/caches/modules-2/files-2.1/com.googlecode.places-api-client/places-api-client/1.0.0/84be48b763e1da747a48d12e6dcb983693b47856/places-api-client-1.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="84be48b763e1da747a48d12e6dcb983693b47856">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/places-api-client-1.0.0-694095039a7c3278750ef75328ce2b830529df08.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-ff83b5009c07e96e8db40d427ecfbee9e1d312c6.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-2ded4a05ea81269d97af01c60678ac4690787ba9.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-ef8305915c1c562dcf6119d89cff8c29e1dd651b.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-a30050f7c9dc0118d846138565522bef72845c89.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-3a9dba9d082dbb6c296e76a9b4de071823ef6c4b.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-2ef1f8397114a8a04e720f45b0bd3bc23da3750b.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-d73ee7077169f28a5eda6147dbac780d269dce12.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
         sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-7b897c33da94879b45242a05bfdebd751790c653.jar" />
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-4daef7de29d42e6a0805dda872db187aeb9f6d24.jar" />
     </item>
     <item
-        jar="/Users/judyl/.gradle/caches/modules-2/files-2.1/com.googlecode.places-api-client/places-api-client/1.0.0/84be48b763e1da747a48d12e6dcb983693b47856/places-api-client-1.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="84be48b763e1da747a48d12e6dcb983693b47856">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/places-api-client-1.0.0-694095039a7c3278750ef75328ce2b830529df08.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-c6abdda2525cad093b70ad33f1ee3a8ad9124269.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-d2bcb3ad531bc27c30616adcf63abb08e03f9cf5.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-dc34bf8e6215b1a29b4ca53718eb14c330c5ca17.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-a38584098bfeffec313e25cf24903c00812449db.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-d0327a2204362ea135758c4ff30adc409d71b3ae.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-d0327a2204362ea135758c4ff30adc409d71b3ae.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/libs/Parse-1.9.2.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="fe739334780fe321141e62720822c2d456061899">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/Parse-1.9.2-ad045fef7ebde14dcd995a0699b4ac06720b134d.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-ef8305915c1c562dcf6119d89cff8c29e1dd651b.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-3a9dba9d082dbb6c296e76a9b4de071823ef6c4b.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/libs/ParseCrashReporting-1.9.2.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="83f3b1e397f1cc3f05cb9db078d9e364b5f5e218">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.2-e353b12e78c6149628c683ef216d2e2c26fef7a1.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-601fabe354e09fa86bd351fac80fab0139d6c9f0.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a78183f30e769a98ab4820794f597763088d3065">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-9dd751ee1508e0f672af7e09bcb883db359ff60a.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.8/af3be3f74d25fc5163b54f56a0d394b462dafafd/commons-codec-1.8.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="af3be3f74d25fc5163b54f56a0d394b462dafafd">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/commons-codec-1.8-8b8cbd52e18cf6efab38d0a897554ecab7b18aa5.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
         sha1="02bac2dc792d78241077861566f2c82da955e7fa">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-06088336816626c52063d8eba7612008bcbb2415.jar" />
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-759a3ac7e210fd0ad9d36cbe0d477656458f9f3f.jar" />
     </item>
     <item
-        jar="/Users/judyl/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-a30050f7c9dc0118d846138565522bef72845c89.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-2ded4a05ea81269d97af01c60678ac4690787ba9.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-190aac7fb736cf3181209ebc96404ad7f76cb3f1.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-7a39ef8bd4677cff0bf5a0fe5d59427be9c79ce9.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-902f589b11e5e1dddf0223762799bd43e5c4c4f7.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-d2bcb3ad531bc27c30616adcf63abb08e03f9cf5.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-c6abdda2525cad093b70ad33f1ee3a8ad9124269.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.16/7999a63bfccbc7c247a9aea10d83d4272bd492c6/log4j-1.2.16.jar"
+        jar="/Users/EdwardTorgas/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.16/7999a63bfccbc7c247a9aea10d83d4272bd492c6/log4j-1.2.16.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="7999a63bfccbc7c247a9aea10d83d4272bd492c6">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/log4j-1.2.16-43a2d04fcd87d80d11ff76ca871dc3c0ad5a9198.jar" />
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/log4j-1.2.16-ce3624e0548dc84ad2377c2f3ee1a2fddd1c3cb5.jar" />
     </item>
     <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.1.0/jars/classes.jar"
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/libs/ParseCrashReporting-1.9.2.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="a78bfd2ec508b123ee7c03f4006ba7996ef9a8dc">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-dc176bb33c6bf2e3ca06f93b2ec1fd47badea6c9.jar" />
+        sha1="83f3b1e397f1cc3f05cb9db078d9e364b5f5e218">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.2-9ddcd0d3dfa8b4428fe834e035169c2e634981a7.jar" />
     </item>
     <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jar="/Users/EdwardTorgas/.gradle/caches/modules-2/files-2.1/com.googlecode.places-api-client/places-api-client/1.0.0/84be48b763e1da747a48d12e6dcb983693b47856/places-api-client-1.0.0.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-902f589b11e5e1dddf0223762799bd43e5c4c4f7.jar" />
+        sha1="84be48b763e1da747a48d12e6dcb983693b47856">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/places-api-client-1.0.0-92a19ca6a9b616a49c1809430eea8c83f8b4ede6.jar" />
     </item>
     <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-a38584098bfeffec313e25cf24903c00812449db.jar" />
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-3fa08c14efd331d740dede5240b1b27603396f6c.jar" />
     </item>
     <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-d73ee7077169f28a5eda6147dbac780d269dce12.jar" />
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-c6a57eb94e6f9479d54adce9b9027c71a1971bc1.jar" />
     </item>
     <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/libs/ParseFacebookUtilsV4-1.9.2.jar"
+        jar="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="bab281cc21f6a68152e11ab53b053790ccfd6764">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.2-1465934169a438c288bd243978941976813b94b5.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-bf2ee82cc1fa651c2cc3ec9292b1f5ca825ae0a7.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-d25b952e1f13c8641711cc5a9e5f7dfc954d7e43.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-fa98de4f1305f5250947d7d45a2d26dbb202b026.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
         sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-62a65fc6c144fdb0234d6a5ddf25cf248f011565.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-f092a09f478ff83fef5bdbfe1440f1856d4ab149.jar" />
-    </item>
-    <item
-        jar="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
-        <dex dex="/Users/judyl/fbandroid/facebook-university/RemindMap/app/build/intermediates/pre-dexed/debug/classes-d25b952e1f13c8641711cc5a9e5f7dfc954d7e43.jar" />
+        <dex dex="/Users/EdwardTorgas/Desktop/RemindMap/app/build/intermediates/pre-dexed/debug/classes-c434a45c60ed52582f922966fcf8480c5e04bd02.jar" />
     </item>
 
 </items>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/judyl/fbandroid/facebook-university/RemindMap/app/src/main/res/values-v19/styles.xml -->
+    <!-- From: file:/Users/EdwardTorgas/Desktop/RemindMap/app/src/main/res/values-v19/styles.xml -->
     <eat-comment/>
     <style name="LoginTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <item name="android:colorBackground">@drawable/login_background</item>
