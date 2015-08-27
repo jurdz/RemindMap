@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="BlueA400">#00b0ff</color>
+    <color name="BlueA700">#0091ea</color>
+    <color name="BlueB900">#01579b</color>
+    <color name="RedA200">#ff9b0d15</color>
+
+    <color name="facebook_login_button">#3B5998</color>
+</resources>

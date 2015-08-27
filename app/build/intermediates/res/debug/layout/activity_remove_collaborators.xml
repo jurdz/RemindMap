@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <ListView
+        android:id="@+id/collaborator_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </ListView>
+
+    <Button
+        android:id="@+id/remove_collaborators_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50dp"
+        android:background="@color/BlueA400"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:text="@string/task_list_remove_collaborators"
+        android:textColor="@android:color/white"/>
+
+</RelativeLayout>
+<!-- From: file:/Users/judyl/fbandroid/facebook-university/RemindMap/app/src/main/res/layout/activity_remove_collaborators.xml -->

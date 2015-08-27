@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="places-api-client-1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.places-api-client/places-api-client/1.0.0/84be48b763e1da747a48d12e6dcb983693b47856/places-api-client-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.places-api-client/places-api-client/1.0.0/2b1aab9fb415a6d074b58351b8c4baa971880273/places-api-client-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

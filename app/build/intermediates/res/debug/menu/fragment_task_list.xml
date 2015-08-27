@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_sync"
+        android:icon="@drawable/ic_action_sync"
+        android:title="@string/menu_sync_task" />
+
+    <item
+        android:id="@+id/action_view_collaborators"
+        android:icon="@drawable/ic_action_share"
+        android:title="@string/task_list_collaborators" />
+
+    <item
+        android:id="@+id/action_delete_task_list"
+        android:icon="@drawable/ic_action_delete_list"
+        android:title="@string/task_list_delete"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_logout"
+        android:icon="@drawable/ic_gem_mini"
+        android:title="@string/menu_logout"
+        app:showAsAction="never" />
+
+</menu>
+<!-- From: file:/Users/judyl/fbandroid/facebook-university/RemindMap/app/src/main/res/menu/fragment_task_list.xml -->

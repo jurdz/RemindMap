@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center"
+              android:orientation="vertical"
+              android:padding="@dimen/activity_margin">
+
+    <ImageView
+        android:id="@+id/app_wordmark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:contentDescription="@string/parse_logo_content_description"
+        android:src="@drawable/app_wordmark"/>
+
+    <TextView
+        android:id="@+id/login_help_instructions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/parse_login_help_instructions"
+        android:textColor="@android:color/white"/>
+
+    <EditText
+        android:id="@+id/login_help_email_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_xl_margin"
+        android:hint="@string/parse_login_help_email_input_hint"
+        android:inputType="textEmailAddress"
+        android:textColor="@android:color/white"/>
+
+    <Button
+        android:id="@+id/login_help_submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_xl_margin"
+        android:text="@string/parse_login_help_submit_button_label"/>
+
+</LinearLayout>

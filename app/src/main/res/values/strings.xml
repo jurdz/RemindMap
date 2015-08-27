@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">RemindMap</string>
+
+    <!--ID strings-->
+    <string name="parse_app_id">8D6udHxxsP3yGhvY8dY7k14p1PtMXyahvvlbCOGt</string>
+    <string name="parse_client_key">BX5WcyAELsYbNxu3aKwxugPUBG26BWTYQ39yf6H4</string>
+    <string name="facebook_app_id">1629334763976480</string>
+
+    <!--Task strings-->
+    <string name="task_title_hint">Enter a title for the task.</string>
+    <string name="task_title_label">Title</string>
+    <string name="task_details_label">Details</string>
+    <string name="task_completed_label">Completed</string>
+    <string name="task_save">Save</string>
+    <string name="date_picker_title">Date task is due:</string>
+    <string name="time_picker_title">Time task is due:</string>
+    <string name="task_location_text">Choose Location</string>
+    <string name="task_assignee_label">Assignee</string>
+    <string name="task_assignee_text"></string>
+    <string name="select_assignee_text"></string>
+
+    <!--Task List strings-->
+    <string name="task_list_new">Create New List</string>
+    <string name="task_list_add_collaborators">Add</string>
+    <string name="task_list_collaborators">Collaborators</string>
+    <string name="task_list_edit">Edit</string>
+    <string name="task_list_delete">Delete List</string>
+    <string name="task_list_delete_question">Delete task list?</string>
+    <string name="task_list_delete_information">Tapping OK will delete the current task list and all tasks associated with it from all devices.</string>
+    <string name="task_list_deleted">The task list and all corresponding tasks have been deleted.</string>
+    <string name="task_list_remove_collaborators">Remove</string>
+
+    <!--Toolbar strings-->
+    <string name="menu_new_task">New Task</string>
+    <string name="menu_new_list">New List</string>
+    <string name="menu_sync_task">Sync Tasks</string>
+    <string name="menu_about">About RemindMap</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_delete_task">Delete Task</string>
+    <string name="menu_search">Search Places</string>
+
+    <!--Navigating strings-->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="see_lists">Lists</string>
+
+    <!--Parse Login strings-->
+    <string name="parse_logo_content_description">Logo</string>
+    <string name="parse_progress_dialog_text">Loading...</string>
+    <string name="parse_username_input_hint">Username</string>
+    <string name="parse_password_input_hint">Password</string>
+    <string name="parse_forgot_password_button_label"><u>Forgot Password?</u></string>
+    <string name="parse_login_button_label">Log in</string>
+    <string name="parse_signup_button_label">Sign up</string>
+    <string name="parse_facebook_login_button_label">Log in with Facebook</string>
+    <string name="parse_email_input_hint">Email</string>
+    <string name="parse_confirm_password_input_hint">Re-enter password</string>
+    <string name="parse_name_input_hint">Name</string>
+    <string name="parse_create_account_button_label">Create account</string>
+    <string name="parse_no_username_toast">Please enter your username</string>
+    <string name="parse_no_password_toast">Please enter your password</string>
+    <string name="parse_login_invalid_credentials_toast">The username and password you entered don\'t match</string>
+    <string name="parse_login_failed_unknown_toast">Could not log in, please try again later</string>
+    <string name="parse_facebook_login_failed_toast">Facebook login failed</string>
+    <string name="parse_phone_number_input_hint">Phone Number</string>
+
+    <plurals name="parse_password_too_short_toast">
+        <item quantity="one">Password must be at least %d character long</item>
+        <item quantity="other">Password must be at least %d characters long</item>
+    </plurals>
+
+    <string name="parse_username_taken_toast">Username is already taken, please choose a different one</string>
+    <string name="parse_reenter_password_toast">Please re-enter your password</string>
+    <string name="parse_mismatch_confirm_password_toast">Passwords don\'t match, please try again</string>
+    <string name="parse_no_email_toast">Please enter your email</string>
+    <string name="parse_invalid_email_toast">Email is invalid, please correct it and try again</string>
+    <string name="parse_email_taken_toast">Email is already taken, please reset your password instead</string>
+    <string name="parse_no_name_toast">Please enter your name</string>
+    <string name="parse_signup_failed_unknown_toast">Could not sign up, please try again later</string>
+    <string name="parse_login_help_instructions">Enter your email to recover your password</string>
+    <string name="parse_login_help_email_input_hint">Email</string>
+    <string name="parse_login_help_submit_button_label">Submit</string>
+    <string name="parse_login_help_login_again_button_label">Back to Login</string>
+    <string name="parse_login_help_submit_failed_unknown">Failed to request password reset, please try again</string>
+    <string name="parse_login_help_email_sent">Please check your email for instructions on how to access your account</string>
+
+    <string name="parse_login_warning_layout_missing_username_field">Layout missing username field</string>
+    <string name="parse_login_warning_layout_missing_password_field">Layout missing password field</string>
+    <string name="parse_login_warning_layout_missing_login_button">Layout missing login button</string>
+    <string name="parse_login_warning_layout_missing_signup_button">Layout missing signup button</string>
+    <string name="parse_login_warning_layout_missing_login_help_button">Layout missing login help button</string>
+    <string name="parse_login_warning_disabled_username_password_login">Disabled username/password login and signup because of missing layout elements</string>
+    <string name="parse_login_warning_disabled_facebook_login">Layout missing Facebook login button, disabled Facebook login</string>
+    <string name="parse_login_warning_disabled_twitter_login">Layout missing Twitter login button, disabled Twitter login</string>
+    <string name="parse_login_warning_parse_login_failed">"Parse username/password login failed, exception: "</string>
+    <string name="parse_login_warning_facebook_login_failed">"Facebook login failed, exception: "</string>
+    <string name="parse_login_warning_facebook_login_user_update_failed">"Updating user object after Facebook login failed, exception: "</string>
+    <string name="parse_login_warning_parse_signup_failed">"Parse signup failed, exception: "</string>
+    <string name="parse_login_warning_password_reset_failed">"Parse password reset failed, exception: "</string>
+
+    <string name="parse_login_dispatch_user_logged_in">"User logged in, starting: "</string>
+    <string name="parse_login_dispatch_user_not_logged_in">User not logged in, starting ParseLoginActivity</string>
+
+    <string name="action_search">Search</string>
+
+    <string name="search_hint">Search Places</string>
+    <string name="search_settings">Search Places</string>
+
+    <string name="error_prefix">"Please "</string>
+    <string name="error_join">", and "</string>
+    <string name="error_end">.</string>
+
+    <string name="no_items">No items, click + to start adding tasks.</string>
+
+    <string name="latitude_label">Latitude: </string>
+    <string name="longitude_label">Longitude: </string>
+
+    <string name="no_location_detected">
+        No location detected. Make sure location is enabled on the device. </string>
+
+    <!-- Error strings -->
+    <string name="not_connected">GoogleApiClient not yet connected. Try again.</string>
+    <string name="geofence_not_available">Geofence service is not available now.</string>
+    <string name="geofence_too_many_geofences">RemindMap has registered too many geofences.</string>
+    <string name="geofence_too_many_pending_intents">
+        You have provided too many PendingIntents to the addGeofences() call
+    </string>
+    <string name="unknown_geofence_error">
+        Unknown error: the Geofence service is not available now
+    </string>
+    <string name="geofence_transition_invalid_type">
+        Geofence transition error: invalid transition type %1$d
+    </string>
+
+    <!-- Transition type strings -->
+    <string name="geofence_transition_entered">Entered</string>
+    <string name="geofence_transition_exited">Exited</string>
+    <string name="unknown_geofence_transition">Unknown Transition</string>
+
+    <string name="geofence_transition_notification_text">Click notification to return to app</string>
+
+    <!--Google Maps save marker button-->
+    <string name="save_location">Save Location</string>
+
+</resources>
