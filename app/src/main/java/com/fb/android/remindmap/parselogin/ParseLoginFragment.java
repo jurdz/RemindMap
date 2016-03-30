@@ -98,6 +98,9 @@ public class ParseLoginFragment extends ParseLoginFragmentBase {
         parseSignupButton = (Button) v.findViewById(R.id.parse_signup_button);
         facebookLoginButton = (Button) v.findViewById(R.id.facebook_login);
 
+        parseLoginButton.setBackgroundColor(getResources().getColor(R.color.login_button));
+        parseSignupButton.setBackgroundColor(getResources().getColor(R.color.login_button));
+
         if (appWordmark != null && config.getAppLogo() != null) {
             appWordmark.setImageResource(config.getAppLogo());
         }

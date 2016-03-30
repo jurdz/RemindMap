@@ -39,10 +39,10 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_gravity="end"
-        android:layout_margin="16dp"
+        android:layout_margin="0dp"
         android:src="@drawable/ic_action_add"
         app:elevation="6dp"
         app:pressedTranslationZ="12dp" />
 
 </RelativeLayout>
-<!-- From: file:/Users/EdwardTorgas/Desktop/RemindMap/app/src/main/res/layout/p_fragment_task_list.xml -->
+<!-- From: file:/C:/Users/Judy/Desktop/RemindMap/app/src/main/res/layout/p_fragment_task_list.xml -->

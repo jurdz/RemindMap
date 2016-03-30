@@ -68,15 +68,11 @@ public class ParseLoginHelpFragment extends ParseLoginFragmentBase implements On
 
         View v = inflater.inflate(R.layout.parse_login_help_fragment,
                 parent, false);
-//    ImageView appLogo = (ImageView) v.findViewById(R.id.app_logo);
         instructionsTextView = (TextView) v.findViewById(R.id.login_help_instructions);
         emailField = (EditText) v.findViewById(R.id.login_help_email_input);
         submitButton = (Button) v.findViewById(R.id.login_help_submit);
 
-//    if (appLogo != null && config.getAppLogo() != null) {
-//      appLogo.setImageResource(config.getAppLogo());
-//    }
-
+        submitButton.setBackgroundColor(getResources().getColor(R.color.login_button));
         submitButton.setOnClickListener(this);
         return v;
     }

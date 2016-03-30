@@ -39,7 +39,7 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_gravity="end"
-        android:layout_margin="16dp"
+        android:layout_margin="0dp"
         android:src="@drawable/ic_action_add"
         app:elevation="6dp"
         app:pressedTranslationZ="12dp" />

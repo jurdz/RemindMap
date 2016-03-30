@@ -18,7 +18,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_gravity="end"
-        android:background="@android:color/darker_gray"
+        android:background="@color/BlueA400"
         android:choiceMode="singleChoice"
         android:scrollbars="vertical" />
 
@@ -28,7 +28,7 @@
         android:layout_width="240dp"
         android:layout_height="wrap_content"
         android:layout_below="@id/left_drawer"
-        android:background="@android:color/darker_gray"
+        android:background="@color/BlueA400"
         android:drawableRight="@drawable/ic_action_add"
         android:paddingRight="16dp"
         android:text="@string/task_list_new" />

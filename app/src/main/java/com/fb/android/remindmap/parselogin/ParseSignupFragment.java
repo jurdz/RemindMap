@@ -84,7 +84,6 @@ public class ParseSignupFragment extends ParseLoginFragmentBase implements OnCli
 
         View v = inflater.inflate(R.layout.parse_signup_fragment,
                 parent, false);
-//    ImageView appLogo = (ImageView) v.findViewById(R.id.app_logo);
         usernameField = (EditText) v.findViewById(R.id.signup_username_input);
         passwordField = (EditText) v.findViewById(R.id.signup_password_input);
         confirmPasswordField = (EditText) v.findViewById(R.id.signup_confirm_password_input);
@@ -95,9 +94,7 @@ public class ParseSignupFragment extends ParseLoginFragmentBase implements OnCli
         usernameField.setText(username);
         passwordField.setText(password);
 
-//    if (appLogo != null && config.getAppLogo() != null) {
-//      appLogo.setImageResource(config.getAppLogo());
-//    }
+        createAccountButton.setBackgroundColor(getResources().getColor(R.color.login_button));
 
         if (config.isParseLoginEmailAsUsername()) {
             usernameField.setHint(R.string.parse_email_input_hint);
