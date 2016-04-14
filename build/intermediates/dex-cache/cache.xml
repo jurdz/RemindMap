@@ -2,48 +2,6 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a78183f30e769a98ab4820794f597763088d3065">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-7b3dccd097bcfa6c846213e7e9228a21bfeddcb0.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-ec949251a4d3985b0a9c710ff0640ff618ad53d1.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-ee86e46c036fc552f2ca4278de6ee1370a5e6a9c.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-0fe0322c42e94003268292176140b82d006e8dd0.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-af9a124fb562dd4a07cf98b0dd100197253c4e13.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d405025c600055237c171a0bbabaa49d69696573">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-a8c6fc3d70019af2ff2fa6de8de9ed150d8c8c5f.jar" />
-    </item>
-    <item
         jar="C:\Users\Judy\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -51,179 +9,25 @@
         <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-3e7bf4afaf1be2ebe6cb70b2d7121d0d13b4a381.jar" />
     </item>
     <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-d4c4523297e869b20318a76c5edb8fdada7299ce.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-52cf5aaf0984f0ee7cf1009e7c1db2cf0bdeafad.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-3b59a2b939f5ebcb8a37775e9ea5afd6b47c1d33.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\libs\ParseFacebookUtilsV4-1.9.2.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="bab281cc21f6a68152e11ab53b053790ccfd6764">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\ParseFacebookUtilsV4-1.9.2-4e9754164cee7d90e57c5f9b18e64c6b7d8eeba6.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.8\af3be3f74d25fc5163b54f56a0d394b462dafafd\commons-codec-1.8.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="af3be3f74d25fc5163b54f56a0d394b462dafafd">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\commons-codec-1.8-303dd1e8c32aa7b849c83d5c78195ed16c7fa619.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-3810b4d4054e1f791048e15ab824211317af17ed.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-848ddc42418158090e1827dffa535eebbccb2b95.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-3363a638020f4286169028bfe0f2a3cc3bb88264.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-4398fe95e38432191cccf556e0f8968809e9384f.jar" />
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-2e05e49cdea7e67f59427a3b99b4f1f33c542b34.jar" />
     </item>
     <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\libs\Parse-1.9.2.jar"
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="fe739334780fe321141e62720822c2d456061899">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\Parse-1.9.2-f9632758839a0669d0e7e114a8bfe602e8cf7a14.jar" />
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-500c671f71ba7869db8bbaa7412f7b799277c5f8.jar" />
     </item>
     <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\libs\ParseCrashReporting-1.9.2.jar"
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="83f3b1e397f1cc3f05cb9db078d9e364b5f5e218">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.2-b6ea65a8272f7874dcb551cedefe5b2d97e16cc1.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-e1d1debbb88110c4aa19a95b9ea03db397b5e5b0.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-51625d05aeadc5bad56f73317cc2083db08272fc.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-f12b2c24490c0094dece223f4b37eaba45301a94.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a78bfd2ec508b123ee7c03f4006ba7996ef9a8dc">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-63381ef3ec5f2ca2a63bc4766f4d652ac6a72d45.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-458562a85e6d4f1624704bdc174b6008bb4295c3.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-68cb4d7f2afc7d7d40d5bac607bc590514d79bda.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.4.0\cc174c559b5177982887bf6e1b76003aebad9516\bolts-android-1.4.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="cc174c559b5177982887bf6e1b76003aebad9516">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\bolts-android-1.4.0-3f24970793d20059befea39b2259af9a367c007f.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-21b9721dc4cb463aa9607f100fad0bb529df3aae.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-36d6ce7f5026c920c2075b6880d977896a41eb97.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\.gradle\caches\modules-2\files-2.1\log4j\log4j\1.2.16\7999a63bfccbc7c247a9aea10d83d4272bd492c6\log4j-1.2.16.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7999a63bfccbc7c247a9aea10d83d4272bd492c6">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\log4j-1.2.16-bb070da011218fa7a41ee0e52914bced6a12696a.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-721dbccf22fc95f95fb8f4bc4dd9b217a7ed406d.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-e0d3354f71f761d0017817c31d4afaa0573272c8.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-31cea3a44089b83d0fe514e60089db8b44846733.jar" />
-    </item>
-    <item
-        jar="C:\Users\Judy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-e42bb666ad2ae3d34e05599e391e16b9f54d7730.jar" />
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-28c475f286c2375f7ed2b8e4e1e8a5533ad03d70.jar" />
     </item>
     <item
         jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
@@ -233,11 +37,172 @@
         <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-0c07bdff6908193c1c2024e61ef209fdae6f1af6.jar" />
     </item>
     <item
-        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-500c671f71ba7869db8bbaa7412f7b799277c5f8.jar" />
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-7506fa9202e9dc0464a165e7ed26fdba99b33d06.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\libs\Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\Parse-1.9.2-c8eb9d61df66e52b37558be7a511d53e2c20b979.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-ce94130e2b274536769bb914c336c87a02cbb759.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-3b59a2b939f5ebcb8a37775e9ea5afd6b47c1d33.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-848ddc42418158090e1827dffa535eebbccb2b95.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-265cba51d10d0eaa5149b5f6219a0d53a4a1ebe5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-e0d3354f71f761d0017817c31d4afaa0573272c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-40a6066a0e0907042af2dc4e4f5e0f2402b5c32e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\libs\ParseCrashReporting-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="83f3b1e397f1cc3f05cb9db078d9e364b5f5e218">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.2-ee1c70544142f5897b3857b8d0ea9be8874b9721.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-0fe0322c42e94003268292176140b82d006e8dd0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-ee86e46c036fc552f2ca4278de6ee1370a5e6a9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-3e412169fd8e67a780f833a395922a3168482777.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-98236df4eede1d0a446f2d5356377c7363822294.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-b38042f2d19e1aa37cc9b7b433a37ec679c350dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-7b3dccd097bcfa6c846213e7e9228a21bfeddcb0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.4.0\cc174c559b5177982887bf6e1b76003aebad9516\bolts-android-1.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cc174c559b5177982887bf6e1b76003aebad9516">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\bolts-android-1.4.0-3f24970793d20059befea39b2259af9a367c007f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-68cb4d7f2afc7d7d40d5bac607bc590514d79bda.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-31cea3a44089b83d0fe514e60089db8b44846733.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-36d6ce7f5026c920c2075b6880d977896a41eb97.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\.gradle\caches\modules-2\files-2.1\com.googlecode.places-api-client\places-api-client\1.0.0\84be48b763e1da747a48d12e6dcb983693b47856\places-api-client-1.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="84be48b763e1da747a48d12e6dcb983693b47856">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\places-api-client-1.0.0-31ed8ac009f5f6f7b0050fb5ccf40bbdf7a62ebb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-b4608fbd564619c7daae72ede37474ad954876e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-ac7c2d5d8ec44f5ec29d93688c32d3c88892b00e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-ba81ccd3273af914aef8e022c916043ac367c35e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-f877424ed147f869654c63d2c50a43544cbec308.jar" />
     </item>
     <item
         jar="C:\Users\Judy\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
@@ -254,11 +219,256 @@
         <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-79425e1b3a1acb89dc559b292fded4a538edbcdd.jar" />
     </item>
     <item
-        jar="C:\Users\Judy\.gradle\caches\modules-2\files-2.1\com.googlecode.places-api-client\places-api-client\1.0.0\84be48b763e1da747a48d12e6dcb983693b47856\places-api-client-1.0.0.jar"
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="84be48b763e1da747a48d12e6dcb983693b47856">
-        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\places-api-client-1.0.0-31ed8ac009f5f6f7b0050fb5ccf40bbdf7a62ebb.jar" />
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-9f5a97fceae93391b0b47d1d9efbd3d81107bf93.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-21b9721dc4cb463aa9607f100fad0bb529df3aae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-ac0f38f5b39e223ba0eae05bac03fbe9d6d36f65.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-d4c4523297e869b20318a76c5edb8fdada7299ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-b2955e25411257966968891f7533e3cdb17be5a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-52cf5aaf0984f0ee7cf1009e7c1db2cf0bdeafad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-a6c90f4abf49233c76444bf4cf761b5685e07377.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-3810b4d4054e1f791048e15ab824211317af17ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-6258845f886e402e68f73f6caf46046afc667f14.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78bfd2ec508b123ee7c03f4006ba7996ef9a8dc">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-63381ef3ec5f2ca2a63bc4766f4d652ac6a72d45.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\libs\ParseFacebookUtilsV4-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bab281cc21f6a68152e11ab53b053790ccfd6764">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\ParseFacebookUtilsV4-1.9.2-4e9754164cee7d90e57c5f9b18e64c6b7d8eeba6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-2a0917ba846438a1f56ed101580af0c13f2708e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-e42bb666ad2ae3d34e05599e391e16b9f54d7730.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-458177dd2c6fe6d9cfb019bf7b4893e423583c9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-af9a124fb562dd4a07cf98b0dd100197253c4e13.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.8\af3be3f74d25fc5163b54f56a0d394b462dafafd\commons-codec-1.8.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="af3be3f74d25fc5163b54f56a0d394b462dafafd">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\commons-codec-1.8-303dd1e8c32aa7b849c83d5c78195ed16c7fa619.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-721dbccf22fc95f95fb8f4bc4dd9b217a7ed406d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-72fb8b60a45c398270494baec84d09c2900c86ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-a8c6fc3d70019af2ff2fa6de8de9ed150d8c8c5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-65f0afb32bcabea7be9e2e02d9d6318c180df77a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-78ca28753755c7bfddd5cc9069cb699dafde85bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-a63a8f1aa588b518605bb70ca015a319b7666771.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-5d53048c5c07ada721ac3432e518ca0b01645036.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-ec949251a4d3985b0a9c710ff0640ff618ad53d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\.gradle\caches\modules-2\files-2.1\log4j\log4j\1.2.16\7999a63bfccbc7c247a9aea10d83d4272bd492c6\log4j-1.2.16.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7999a63bfccbc7c247a9aea10d83d4272bd492c6">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\log4j-1.2.16-bb070da011218fa7a41ee0e52914bced6a12696a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-3363a638020f4286169028bfe0f2a3cc3bb88264.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78bfd2ec508b123ee7c03f4006ba7996ef9a8dc">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-d7d0be14131c6bcd6669e1e3e0847a7de81456aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-e1d1debbb88110c4aa19a95b9ea03db397b5e5b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\libs\ParseCrashReporting-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="83f3b1e397f1cc3f05cb9db078d9e364b5f5e218">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.2-b6ea65a8272f7874dcb551cedefe5b2d97e16cc1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-51625d05aeadc5bad56f73317cc2083db08272fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-f12b2c24490c0094dece223f4b37eaba45301a94.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\libs\ParseFacebookUtilsV4-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bab281cc21f6a68152e11ab53b053790ccfd6764">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\ParseFacebookUtilsV4-1.9.2-72135b7a06bab4ecd4f7a079e470441859c278dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Judy\Documents\GitHub\RemindMap\app\build\intermediates\pre-dexed\debug\classes-a3a2c52fe600f0f109a62b7adcae45d00896f229.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-458562a85e6d4f1624704bdc174b6008bb4295c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\classes-4398fe95e38432191cccf556e0f8968809e9384f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Judy\Desktop\RemindMap\app\libs\Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="C:\Users\Judy\Desktop\RemindMap\app\build\intermediates\pre-dexed\debug\Parse-1.9.2-f9632758839a0669d0e7e114a8bfe602e8cf7a14.jar" />
     </item>
 
 </items>

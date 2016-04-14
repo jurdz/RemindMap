@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="BlueA400">#00b0ff</color>
-    <color name="BlueA700">#0091ea</color>
-    <color name="BlueB900">#01579b</color>
+    <color name="BlueA400">#5d7dbe</color>
+    <color name="BlueA700">#526ea7</color>
     <color name="RedA200">#ff9b0d15</color>
 
     <color name="login_button">#98ffffff</color>

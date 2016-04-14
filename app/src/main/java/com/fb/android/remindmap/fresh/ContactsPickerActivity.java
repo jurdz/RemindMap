@@ -9,9 +9,9 @@ import android.database.Cursor;
 import android.net.Uri;
 import android.os.Bundle;
 import android.provider.ContactsContract;
-import android.support.v4.app.FragmentActivity;
+import android.support.design.widget.FloatingActionButton;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.Button;
 import android.widget.CompoundButton;
 import android.widget.ListView;
 import android.widget.Toast;
@@ -25,12 +25,12 @@ import static android.provider.ContactsContract.CommonDataKinds.Phone;
 /**
  * Created by etorgas on 7/29/15.
  */
-public class ContactsPickerActivity extends FragmentActivity implements CompoundButton.OnCheckedChangeListener {
+public class ContactsPickerActivity extends AppCompatActivity implements CompoundButton.OnCheckedChangeListener {
 
     ListView mListView;
     ArrayList<Contact> mContactArrayList;
     CheckboxListViewAdapter mCheckboxListViewAdapter;
-    Button mAddCollaboratorButton;
+    FloatingActionButton mAddCollaboratorButton;
     ArrayList<Contact> mSelectedContacts;
 
     @Override
@@ -44,7 +44,7 @@ public class ContactsPickerActivity extends FragmentActivity implements Compound
 
         mSelectedContacts = new ArrayList<>();
 
-        mAddCollaboratorButton = (Button) findViewById(R.id.add_collaborators_button);
+        mAddCollaboratorButton = (FloatingActionButton) findViewById(R.id.collaborators_button);
         mAddCollaboratorButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

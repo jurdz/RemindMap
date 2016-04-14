@@ -230,7 +230,7 @@ public class PTaskListFragment extends Fragment {
         }
 
         if (requestCode == REQUEST_REMOVE_COLLABORATORS &&
-                resultCode == RemoveCollaboratorsActivity.RESULT_OK) {
+                resultCode == ContactsRemoverActivity.RESULT_OK) {
             ArrayList<Contact> contactsToRemove = data.getParcelableArrayListExtra("contactsToRemove");
 
             ArrayList<ParseUser> collaboratorParseUsers = new ArrayList<>(mTaskList.getCollaborators());
@@ -548,7 +548,7 @@ public class PTaskListFragment extends Fragment {
                     collabContacts.add(new Contact(name, phoneNumber));
                 }
 
-                Intent intent = new Intent(getActivity(), RemoveCollaboratorsActivity.class);
+                Intent intent = new Intent(getActivity(), ContactsRemoverActivity.class);
                 intent.putParcelableArrayListExtra("contacts", collabContacts);
 
                 startActivityForResult(intent, REQUEST_REMOVE_COLLABORATORS);

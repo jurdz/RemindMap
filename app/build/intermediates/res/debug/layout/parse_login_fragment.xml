@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
+    android:background="@drawable/login_background"
     android:padding="@dimen/activity_margin">
 
     <ImageView
@@ -72,4 +73,4 @@
         android:text="@string/parse_forgot_password_button_label"/>
 
 </LinearLayout>
-<!-- From: file:/C:/Users/Judy/Desktop/RemindMap/app/src/main/res/layout/parse_login_fragment.xml -->
+<!-- From: file:/C:/Users/Judy/Documents/GitHub/RemindMap/app/src/main/res/layout/parse_login_fragment.xml -->

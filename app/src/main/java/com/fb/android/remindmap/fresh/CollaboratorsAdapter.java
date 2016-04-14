@@ -51,7 +51,7 @@ public class CollaboratorsAdapter extends ArrayAdapter<Contact> implements Compo
         holder.contactName = (TextView) v.findViewById(R.id.name_text_view);
         holder.checkBox = (CheckBox) v.findViewById(R.id.user_picked_check_box);
 
-        holder.checkBox.setOnCheckedChangeListener((RemoveCollaboratorsActivity) mContext);
+        holder.checkBox.setOnCheckedChangeListener((ContactsRemoverActivity) mContext);
 
         Contact contact = mContactList.get(position);
         holder.contactName.setText(contact.getName());

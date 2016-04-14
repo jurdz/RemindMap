@@ -135,7 +135,7 @@ public class GeofenceTransitionsIntentService extends IntentService {
         PendingIntent notificationPendingIntent = stackBuilder.getPendingIntent(requestCode, PendingIntent.FLAG_ONE_SHOT); //TODO (FLAG_UPDATE_CURRENT?); send task id as extra on intent
 
         NotificationCompat.Builder builder = new NotificationCompat.Builder(this);
-        builder.setSmallIcon(R.drawable.ic_tab_location)
+        builder.setSmallIcon(R.drawable.ic_gem_mini)
                 .setColor(getResources().getColor(R.color.BlueA400))
                 .setContentTitle("RemindMap")
                 .setContentText("You're near the task " + task.getTitle())

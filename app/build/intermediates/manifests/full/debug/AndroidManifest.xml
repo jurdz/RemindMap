@@ -96,22 +96,28 @@
         </activity>
         <activity
             android:name="com.fb.android.remindmap.fresh.PTaskListActivity"
-            android:label="@string/app_name" />
+            android:label="@string/app_name" >
+        </activity>
         <activity
             android:name="com.fb.android.remindmap.fresh.ContactsPickerActivity"
-            android:label="@string/app_name" />
+            android:label="@string/app_name"
+            android:parentActivityName="com.fb.android.remindmap.fresh.PTaskListActivity" >
+        </activity>
         <activity
-            android:name="com.fb.android.remindmap.fresh.RemoveCollaboratorsActivity"
-            android:label="@string/app_name" >
+            android:name="com.fb.android.remindmap.fresh.ContactsRemoverActivity"
+            android:label="@string/app_name"
+            android:parentActivityName="com.fb.android.remindmap.fresh.PTaskListActivity" >
         </activity>
         <activity
             android:name="com.fb.android.remindmap.fresh.PTaskPagerActivity"
             android:label="@string/app_name"
-            android:parentActivityName="com.fb.android.remindmap.fresh.PTaskListPagerActivity" />
+            android:parentActivityName="com.fb.android.remindmap.fresh.PTaskListPagerActivity" >
+        </activity>
         <activity
             android:name="com.fb.android.remindmap.fresh.PTaskListPagerActivity"
             android:label="@string/app_name"
-            android:parentActivityName="com.fb.android.remindmap.fresh.PTaskListActivity" />
+            android:parentActivityName="com.fb.android.remindmap.fresh.PTaskListActivity" >
+        </activity>
 
         <service android:name="com.parse.PushService" />
 

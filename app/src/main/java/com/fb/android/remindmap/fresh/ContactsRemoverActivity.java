@@ -4,43 +4,40 @@ package com.fb.android.remindmap.fresh;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v4.app.FragmentActivity;
+import android.support.design.widget.FloatingActionButton;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.Button;
 import android.widget.CompoundButton;
 import android.widget.ListView;
 
 import com.fb.android.remindmap.R;
-import com.parse.ParseUser;
 
 import java.util.ArrayList;
 
 /**
  * Created by etorgas on 8/3/15.
  */
-public class RemoveCollaboratorsActivity extends FragmentActivity implements CompoundButton.OnCheckedChangeListener {
+public class ContactsRemoverActivity extends AppCompatActivity implements CompoundButton.OnCheckedChangeListener {
 
 
     ListView mListView;
     ArrayList<Contact> mCollaboratorsArrayList;
     CollaboratorsAdapter mCollaboratorsAdapter;
-    Button mRemoveCollaboratorButton;
-    ArrayList<ParseUser> mParseUsersToRemove;
-    private ArrayList<ParseUser> mCollaboratorParseUsersArrayList;
+    FloatingActionButton mRemoveCollaboratorButton;
     private ArrayList<Contact> mContactsToRemove;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        setContentView(R.layout.activity_remove_collaborators);
+        setContentView(R.layout.activity_contacts_picker);
 
-        mListView = (ListView) findViewById(R.id.collaborator_list_view);
+        mListView = (ListView) findViewById(R.id.contact_list_view);
         displayCollaboratorsList();
 
         mContactsToRemove = new ArrayList<>();
 
-        mRemoveCollaboratorButton = (Button) findViewById(R.id.remove_collaborators_button);
+        mRemoveCollaboratorButton = (FloatingActionButton) findViewById(R.id.collaborators_button);
         mRemoveCollaboratorButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
