@@ -632,6 +632,7 @@
         <item name="colorPrimaryDark">@color/BlueA700</item>
         <item name="colorAccent">@color/BlueA400</item>
         <item name="color">@color/BlueA400</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/background_list_item</item>
     </style>
     <!-- From: file:/C:/Users/Judy/Documents/GitHub/RemindMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>

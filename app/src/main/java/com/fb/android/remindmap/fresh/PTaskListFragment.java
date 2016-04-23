@@ -115,7 +115,7 @@ public class PTaskListFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        final View v = inflater.inflate(R.layout.p_fragment_task_list, container, false);
+        final View v = inflater.inflate(R.layout.fragment_task_list, container, false);
 
         // Set up Location Manager
         mLocationManager = new LocationManager(getActivity());
@@ -192,7 +192,7 @@ public class PTaskListFragment extends Fragment {
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         if (requestCode == REQUEST_CONTACTS && resultCode == ContactsPickerActivity.RESULT_OK) {
-            //FIXME: Moved initialization of mSelectedParseUsers into if statement.
+            //FIXME Moved initialization of mSelectedParseUsers into if statement.
             mSelectedParseUsers = new ArrayList<>();
             mSelectedContacts = data.getParcelableArrayListExtra("selectedContacts");
             for (Contact contact : mSelectedContacts) {
@@ -234,7 +234,6 @@ public class PTaskListFragment extends Fragment {
             ArrayList<Contact> contactsToRemove = data.getParcelableArrayListExtra("contactsToRemove");
 
             ArrayList<ParseUser> collaboratorParseUsers = new ArrayList<>(mTaskList.getCollaborators());
-            //TODO: Parse query for users by matching phone numbers in contactsToRemove, then remove them.
             for (Contact contact : contactsToRemove) {
                 try {
                     ParseQuery<ParseUser> parseUserQuery = ParseUser.getQuery();
@@ -410,7 +409,7 @@ public class PTaskListFragment extends Fragment {
         public View getItemView(final PTask task, View view, ViewGroup parent) {
             final ViewHolder holder;
             if (view == null) {
-                view = inflater.inflate(R.layout.p_list_item_task, parent, false);
+                view = inflater.inflate(R.layout.fragment_list_item_task, parent, false);
                 holder = new ViewHolder();
                 holder.mTitleTextView = (TextView) view.findViewById(R.id.list_item_title_text_view);
                 holder.mDateTextView = (TextView) view.findViewById(R.id.list_item_date_text_view);
@@ -557,7 +556,7 @@ public class PTaskListFragment extends Fragment {
 
         // Create ArrayAdapter using the title list.
         ArrayAdapter<String> listTitlesAdapter =
-                new ArrayAdapter<>(getActivity(), R.layout.share_list_item, collaboratorNames);
+                new ArrayAdapter<>(getActivity(), R.layout.dialog_share_list_item, collaboratorNames);
 
         // Set the ArrayAdapter as the ListView's adapter.
         shareList.setAdapter(listTitlesAdapter);

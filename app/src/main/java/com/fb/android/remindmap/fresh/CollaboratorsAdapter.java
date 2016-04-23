@@ -25,7 +25,7 @@ public class CollaboratorsAdapter extends ArrayAdapter<Contact> implements Compo
     private final Context mContext;
 
     public CollaboratorsAdapter(List<Contact> contactList, Context context) {
-        super(context, R.layout.checkbox_list_item, contactList);
+        super(context, R.layout.activity_contact_list_item, contactList);
         this.mContactList = contactList;
         this.mContext = context;
     }
@@ -46,10 +46,10 @@ public class CollaboratorsAdapter extends ArrayAdapter<Contact> implements Compo
         ContactHolder holder = new ContactHolder();
 
         LayoutInflater inflater = (LayoutInflater) mContext.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-        v = inflater.inflate(R.layout.checkbox_list_item, null);
+        v = inflater.inflate(R.layout.activity_contact_list_item, null);
 
         holder.contactName = (TextView) v.findViewById(R.id.name_text_view);
-        holder.checkBox = (CheckBox) v.findViewById(R.id.user_picked_check_box);
+        holder.checkBox = (CheckBox) v.findViewById(R.id.picked_contact_box);
 
         holder.checkBox.setOnCheckedChangeListener((ContactsRemoverActivity) mContext);
 

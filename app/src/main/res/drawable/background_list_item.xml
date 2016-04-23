@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <item android:state_activated="true"
+        android:drawable="@color/BlueA700"/>
+
+    <item android:state_enabled="true"
+        android:drawable="@color/BlueA400"/>
+
+    <item android:state_pressed="true"
+        android:drawable="@color/BlueA700"/>
+
+    <item android:drawable="@android:color/transparent" />
+</selector>

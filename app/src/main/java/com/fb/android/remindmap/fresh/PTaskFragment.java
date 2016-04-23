@@ -142,7 +142,7 @@ public class PTaskFragment extends Fragment implements DatePickedInterface {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        final View v = inflater.inflate(R.layout.p_fragment_task, container, false);
+        final View v = inflater.inflate(R.layout.fragment_task, container, false);
 
         mTitleField = (EditText) v.findViewById(R.id.p_task_title);
         mDateButton = (Button) v.findViewById(R.id.p_task_date);

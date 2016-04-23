@@ -13,7 +13,7 @@ import com.fb.android.remindmap.R;
  */
 
 public class PTaskListActivity extends SingleFragmentActivity implements
-        PTaskListFragment.Callbacks, PTaskFragment.Callbacks, NavigationDrawerFragment.ListCallbacks {
+        PTaskListFragment.Callbacks, PTaskFragment.Callbacks, SpinnerNavigationFragment.ListCallbacks {
 
     @Override
     protected Fragment createFragment() {
@@ -24,7 +24,7 @@ public class PTaskListActivity extends SingleFragmentActivity implements
             String listId = getIntent().getExtras().getString("LIST_ID");
             return PTaskFragment.newInstance(taskId, listId);
         }
-        return new NavigationDrawerFragment();
+        return new SpinnerNavigationFragment();
     }
 
     @Override
@@ -75,7 +75,7 @@ public class PTaskListActivity extends SingleFragmentActivity implements
 
     @Override
     public void onTaskListUpdated(PTaskList taskList) {
-        NavigationDrawerFragment listFragment = (NavigationDrawerFragment)
+        SpinnerNavigationFragment listFragment = (SpinnerNavigationFragment)
                 getSupportFragmentManager()
                         .findFragmentById(R.id.fragment_container);
         listFragment.updateUI();

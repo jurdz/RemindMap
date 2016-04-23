@@ -145,7 +145,6 @@ public class PlaceProvider extends ContentProvider implements LocationFoundInter
 
                     }
                 } catch (JSONException e) {
-                    // TODO Auto-generated catch block
                     e.printStackTrace();
                 }
                 c = mCursor;
@@ -190,7 +189,6 @@ public class PlaceProvider extends ContentProvider implements LocationFoundInter
                 try {
                     detailsList = detailsParser.parse(new JSONObject(jsonPlaceDetails));
                 } catch (JSONException e) {
-                    // TODO Auto-generated catch block
                     e.printStackTrace();
                 }
 
@@ -207,19 +205,16 @@ public class PlaceProvider extends ContentProvider implements LocationFoundInter
 
     @Override
     public int delete(Uri uri, String selection, String[] selectionArgs) {
-        // TODO Auto-generated method stub
         return 0;
     }
 
     @Override
     public String getType(Uri uri) {
-        // TODO Auto-generated method stub
         return null;
     }
 
     @Override
     public Uri insert(Uri uri, ContentValues values) {
-        // TODO Auto-generated method stub
         return null;
     }
 
@@ -235,7 +230,6 @@ public class PlaceProvider extends ContentProvider implements LocationFoundInter
             ContentValues values,
             String selection,
             String[] selectionArgs) {
-        // TODO Auto-generated method stub
         return 0;
     }
 

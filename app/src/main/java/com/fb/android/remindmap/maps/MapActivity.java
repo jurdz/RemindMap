@@ -156,7 +156,6 @@ public class MapActivity extends AppCompatActivity implements LoaderCallbacks<Cu
 
     @Override
     public void onLoaderReset(Loader<Cursor> arg0) {
-        // TODO Auto-generated method stub
     }
 
     private void showLocations(Cursor c) {

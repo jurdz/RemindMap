@@ -9,7 +9,6 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:padding="4dp">
-
     </ListView>
 
     <android.support.design.widget.FloatingActionButton
@@ -20,7 +19,7 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_gravity="right|bottom"
-        android:layout_margin="0dp"
+        android:layout_margin="12dp"
         android:src="@drawable/ic_action_check"
         app:elevation="6dp"
         app:pressedTranslationZ="12dp" />

@@ -54,7 +54,7 @@ public class ListApplication extends android.app.Application {
         // Push Service
         ParseInstallation.getCurrentInstallation().saveInBackground();
         PushService.setDefaultPushCallback(this, PTaskListActivity.class);
-        //TODO: https://www.parse.com/docs/android/api/com/parse/ParsePushBroadcastReceiver.html
+        //TODO https://www.parse.com/docs/android/api/com/parse/ParsePushBroadcastReceiver.html
 
         ParsePush.subscribeInBackground("", new SaveCallback() {
             @Override

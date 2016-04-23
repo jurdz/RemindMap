@@ -24,7 +24,7 @@ public class CheckboxListViewAdapter extends ArrayAdapter<Contact> implements Co
     private final Context mContext;
 
     public CheckboxListViewAdapter(List<Contact> contactList, Context context) {
-        super(context, R.layout.checkbox_list_item, contactList);
+        super(context, R.layout.activity_contact_list_item, contactList);
         this.mContactList = contactList;
         this.mContext = context;
     }
@@ -45,10 +45,10 @@ public class CheckboxListViewAdapter extends ArrayAdapter<Contact> implements Co
         ContactHolder holder = new ContactHolder();
 
         LayoutInflater inflater = (LayoutInflater) mContext.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-        v = inflater.inflate(R.layout.checkbox_list_item, null);
+        v = inflater.inflate(R.layout.activity_contact_list_item, null);
 
         holder.contactName = (TextView) v.findViewById(R.id.name_text_view);
-        holder.checkBox = (CheckBox) v.findViewById(R.id.user_picked_check_box);
+        holder.checkBox = (CheckBox) v.findViewById(R.id.picked_contact_box);
 
         holder.checkBox.setOnCheckedChangeListener((ContactsPickerActivity) mContext);
 

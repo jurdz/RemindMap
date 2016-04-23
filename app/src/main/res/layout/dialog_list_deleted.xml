@@ -15,5 +15,4 @@
         android:text="@string/task_list_deleted"
         android:textSize="15dp"/>
 
-
 </LinearLayout>

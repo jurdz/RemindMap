@@ -15,6 +15,5 @@
         android:text="@string/task_list_deleted"
         android:textSize="15dp"/>
 
-
 </LinearLayout>
 <!-- From: file:/C:/Users/Judy/Documents/GitHub/RemindMap/app/src/main/res/layout/dialog_list_deleted.xml -->
