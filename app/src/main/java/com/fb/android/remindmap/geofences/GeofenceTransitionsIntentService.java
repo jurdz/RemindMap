@@ -51,7 +51,7 @@ public class GeofenceTransitionsIntentService extends IntentService {
             String errorMessage = GeofenceErrorMessages.getErrorString(
                     this,
                     geofencingEvent.getErrorCode());
-            Log.e(TAG, errorMessage);
+            Log.e("Eliz", errorMessage);
             return;
         }
 
@@ -72,7 +72,7 @@ public class GeofenceTransitionsIntentService extends IntentService {
 
         } else {
             // Log the error.
-            Log.e(TAG, getString(R.string.geofence_transition_invalid_type, geofenceTransition));
+            Log.e("Eliz", getString(R.string.geofence_transition_invalid_type, geofenceTransition));
         }
     }
 
@@ -135,10 +135,10 @@ public class GeofenceTransitionsIntentService extends IntentService {
         PendingIntent notificationPendingIntent = stackBuilder.getPendingIntent(requestCode, PendingIntent.FLAG_ONE_SHOT); //TODO (FLAG_UPDATE_CURRENT?); send task id as extra on intent
 
         NotificationCompat.Builder builder = new NotificationCompat.Builder(this);
-        builder.setSmallIcon(R.drawable.ic_gem_mini)
-                .setColor(getResources().getColor(R.color.BlueA400))
-                .setContentTitle("RemindMap")
-                .setContentText("You're near the task " + task.getTitle())
+        builder.setSmallIcon(R.mipmap.ic_launcher_gem)
+                .setContentTitle(task.getTitle())
+                .setContentText("You're near " + task.getLocTitle())
+                .setTicker("RemindMap Alert")
                 .setContentIntent(notificationPendingIntent)
                 .setDefaults(NotificationCompat.DEFAULT_ALL)
                 .setWhen(when);

@@ -3,7 +3,6 @@
     android:hint="@string/search_hint"
     android:label="@string/app_name"
     android:searchSettingsDescription="@string/search_settings"
-
     android:searchSuggestAuthority="com.fb.android.remindmap.maps.PlaceProvider"
     android:searchSuggestIntentAction="android.intent.action.VIEW"
     android:searchSuggestSelection=" ?"
