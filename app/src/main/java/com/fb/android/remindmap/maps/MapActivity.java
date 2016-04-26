@@ -3,6 +3,7 @@
 package com.fb.android.remindmap.maps;
 
 import android.app.SearchManager;
+import android.content.Context;
 import android.content.Intent;
 import android.database.Cursor;
 import android.location.Location;
@@ -10,7 +11,9 @@ import android.os.Bundle;
 import android.support.v4.app.LoaderManager.LoaderCallbacks;
 import android.support.v4.content.CursorLoader;
 import android.support.v4.content.Loader;
+import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.SearchView;
 import android.view.Gravity;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -18,8 +21,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.fb.android.remindmap.geofences.LocationManager;
 import com.fb.android.remindmap.R;
+import com.fb.android.remindmap.geofences.LocationManager;
 import com.fb.android.remindmap.interfaces.LocationFoundInterface;
 import com.fb.android.remindmap.interfaces.LocationPickedInterface;
 import com.google.android.gms.maps.CameraUpdate;
@@ -103,7 +106,11 @@ public class MapActivity extends AppCompatActivity implements LoaderCallbacks<Cu
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu
         getMenuInflater().inflate(R.menu.activity_map, menu);
-        return super.onCreateOptionsMenu(menu);
+        SearchManager searchManager = (SearchManager) getSystemService(Context.SEARCH_SERVICE);
+        MenuItem searchActionBarItem = menu.findItem(R.id.menu_search);
+        SearchView searchView = (SearchView) MenuItemCompat.getActionView(searchActionBarItem);
+        searchView.setSearchableInfo(searchManager.getSearchableInfo(getComponentName()));
+        return true;
     }
 
     @Override
